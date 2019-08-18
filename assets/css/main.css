@@ -151,19 +151,19 @@ ul.navbar-nav {
 	z-index:999999;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #fff;
+	color: #000;
 	background: none;
 }
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover,.navbar-default .navbar-nav > li > a:focus {
 	font-size: 16px;
 	line-height: 35px;
-	color: #fff;
+	color: #000;
 	font-weight: 100;
 	text-transform: uppercase;
 	text-align: center;
 }
 .navbar-default {
-	background: #2a3448;
+	background: #fff;
 	border: none;
 }
 .navbar-nav > li {
@@ -194,8 +194,8 @@ ul.navbar-nav {
 }
 
 .navbar-default .navbar-toggle {
-	color: #fff;
-	border-color: #fff;
+	color: #000;
+	border-color: #52aba6;
 	right:20px;
 }
 
@@ -205,14 +205,14 @@ ul.navbar-nav {
 	background: none;
 }
 ul.dropdown-menu {
-	background: #2a3448;
+	background: #fff;
 	min-width: 140px;
 	top:95%;
 	
 }
 
 ul.dropdown-menu li a {
-	color: #fff;
+	color: #000;
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
 	-o-transition: all 0.4s ease-in-out;
@@ -234,13 +234,13 @@ ul.dropdown-menu li a {
 .section-line {
 	font-size: 18px;
 	line-height: 26px;
-	color: #b93223;
+	color: #000;
 	font-weight: 100;
 	padding-top: 17px;
 	padding-bottom: 50px;
 }
 a.btn {
-	background: #fff;
+	background: #52aba6;
 	color: #000;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -264,7 +264,7 @@ a.btn {
 }
 
 .navbar-default .navbar-brand:hover{
-	color:#fff;
+	color:#52aba6;
 }
 
 a.navbar-brand img{
