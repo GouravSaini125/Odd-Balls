@@ -1,0 +1,91 @@
+
+
+.navbar-default,#portfolio,#blog,ul.dropdown-menu,footer{
+	background-color:#384049;
+}
+
+h1,.pricing-table .pricing-menu li,.pricing-table li,.price-tag .currency,.price-tag .price,.price-tag .duration,.copyrights,footer,#clients,#clients h1,.member h5,#team, #team .section-line,#team h1,#team h1 span,#process h1,#process h1 span,
+.work-phase, .work-phase p,.work-phase h2,.project h4,#portfolio h1 span,
+#portfolio h1,#profile h1,#profile h1 span,#profile, #profile p,.service h4,.service, .service p,.section-line,.social-fonts li a,.navbar-default .navbar-brand,.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+	color:#c5c4c1;	
+}
+
+.service:hover h4,.service:hover, .service:hover p{
+	color:#000;
+}
+
+#services,.project h4,#clients,#contact{
+	background-color:#272e34;
+}
+#services{
+	background-image:url(../img/BG/dark-service.png);
+}
+
+.service,.post img,.blog-text{
+	border:1px solid #6b6b6b;
+}
+
+.clients-wrapper li.active{
+	border:1px solid #384049;
+}
+
+h1 span:after,#profile h1 span:after,#portfolio h1 span:after,
+#process h1 span:after,#team h1 span:after {
+	background-color: #c5c4c1;
+}
+
+#team{
+	background-image:url(../img/BG/bg-dark.jpg);
+}
+
+#profile,#process,#pricing{
+	background-color:#313941;
+}
+
+.work-phase{
+	border-color:#313941;
+}
+
+.work-phase:hover{
+	border-color:#c0392b;
+}
+
+footer .social li{
+	background-color:#1c2024;
+	border:none;
+}
+
+.pricing-column ul li:nth-child(even),.pricing-table,.pricing-column{
+	background:#485059;
+}
+.pricing-column ul li:nth-child(odd){
+	background:#383d43;
+}
+.pricing-table,.pricing-column,.pricing-column li,.pricing-column .column-head{
+	border-color:#565e67;
+}
+
+
+.pricing-menu{
+	background-color:#272e34;
+}
+
+.pricing-menu ul li:nth-child(even){
+	background:#272e34;
+}
+.pricing-menu ul li:nth-child(odd){
+	background:#1e2327;
+}
+
+.pricing-column li h6{
+	color:#ffffff;
+}
+
+.pricing-column:hover li:nth-child(even),.pricing-column:hover li:nth-child(odd){
+	background:#595f66;
+}
+
+
+
