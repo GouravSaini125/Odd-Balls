@@ -115,7 +115,7 @@ h4 {
 	padding-bottom:80px;
 	min-width:200px;
 	overflow:hidden;
-	background:url(../img/slider/bg6.jpg) no-repeat;
+	background:url(../img/slider/banner3.jpg) no-repeat;
 	background-size:cover;
 }
 
@@ -123,7 +123,7 @@ h4 {
 .header-content{
 	text-align:center;
 	position:relative;
-	color:#000000;
+	color:#ffffff;
 
 }
 .header-content h1{
@@ -502,8 +502,9 @@ a.navbar-brand img{
 	margin:0;
 	padding:0;
 	color:#000000;
+	background: white;
 	text-transform:none;
-	width:100%;
+	width:auto;
 }
 .fractionSlide p.white{
 	color:#fff !important;
@@ -634,7 +635,7 @@ a.navbar-brand img{
 .info {
 	font-size: 27px;
 	line-height: 35px;
-	color: #949191;
+	color: #ffffff;
 	font-weight: 100;
 	padding-bottom: 35px;
 }
@@ -1352,12 +1353,12 @@ a.navbar-brand img{
 	transition: all 1s cubic-bezier(0.1, 0.56, 0.19, 1) 0s;
 }
 
-.blog-text{
+.blog-unit{
 	background:#52aba6;
-	border: 1px solid #c15347;
+	margin-bottom:3px; 
 }
 
-.blog-text:hover{
+.blog-unit:hover{
 	background:#c15347;
 	border: 1px solid #52aba6;
 }
@@ -2570,14 +2571,14 @@ ul.navbar-nav{
 
 
 .desktopIcon{
-	background:url(../img/icons/07.png) no-repeat center center;
+	background:url(../img/icons/icon1.png) no-repeat center center;
 	width:112px;
 	height:93px;
 	display:block;
 }
 
 .colorsIcon{
-	background: url(../img/icons/12.png) no-repeat center center;
+	background: url(../img/icons/icon2.png) no-repeat center center;
 	width:95px;
 	height:99px;
 	display:block;
@@ -2585,7 +2586,7 @@ ul.navbar-nav{
 }
 
 .experienceIcon{
-	background:url(../img/icons/08.png) no-repeat center center;
+	background:url(../img/icons/icon3.png) no-repeat center center;
 	width:120px;
 	height:95px;
 	display:block;
@@ -2593,7 +2594,7 @@ ul.navbar-nav{
 }
 
 .pencilIcon{
-	background: url(../img/icons/11.png) no-repeat center center;
+	background: url(../img/icons/icon4.png) no-repeat center center;
 	width:97px;
 	height:97px;
 	display:block;
