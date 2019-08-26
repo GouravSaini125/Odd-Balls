@@ -1238,6 +1238,7 @@ a.navbar-brand img{
 }
 .blog-wrapper{
 	position:relative;
+
 	padding-top:35px;
 	display:none;
 }
@@ -1355,6 +1356,7 @@ a.navbar-brand img{
 
 .blog-unit{
 	background:#52aba6;
+	height: 106px;
 	margin-bottom:3px; 
 }
 
