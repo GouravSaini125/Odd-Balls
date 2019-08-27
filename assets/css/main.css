@@ -1239,7 +1239,7 @@ a.navbar-brand img{
 .blog-wrapper{
 	position:relative;
 
-	padding-top:35px;
+	padding-top:0px;
 	display:none;
 }
 
@@ -1357,7 +1357,8 @@ a.navbar-brand img{
 .blog-unit{
 	background:#52aba6;
 	height: 106px;
-	margin-bottom:3px; 
+	width: 20%;
+	margin:0 0 2.5% 2.5%; 
 }
 
 .blog-unit:hover{
@@ -2285,7 +2286,11 @@ footer .social li{
  
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 980px) {
+	.blog-unit{
 
+		width: 40%;
+		margin:0 0 5% 5%; 
+	}
 .access-project li.last_p {
 	padding-left: 100px;
 	padding-right: 80px;
@@ -2352,6 +2357,11 @@ ul.navbar-nav{
  
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
+	.blog-unit{
+
+		width: 45%;
+		margin:0 0 2.5% 2.5%; 
+	}
 
 .pricing-table{
 	background:none !important;
@@ -2514,6 +2524,11 @@ ul.navbar-nav{
  
 /* Landscape phones and down */
 @media (max-width: 480px) {
+	.blog-unit{
+
+		width: 95%;
+		margin:0 0 2.5% 2.5%; 
+	}
 #timer {
 	max-width: 155px;
 	padding-top: 30px;
